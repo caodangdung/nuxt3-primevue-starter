@@ -31,7 +31,7 @@
     "@nuxtjs/eslint-config-typescript": "12.0.0",
     "@nuxtjs/i18n": "8.0.0-rc.2",
     "@pinia/nuxt": "^0.4.11",
-    "@sfxcode/nuxt-primevue": "^1.3.3",
+    "@sfxcode/nuxt-primevue": "^1.4.2",
     "@tiptap/extension-highlight": "^2.0.4",
     "@tiptap/extension-text-align": "^2.0.4",
     "@tiptap/extension-text-style": "^2.0.4",
